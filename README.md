@@ -6,5 +6,5 @@
 > james.innes@echonet.io
 
 ### Areas of Expertise
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fafbfc)
 ![C#](https://img.shields.io/badge/CSharp-Expert-3670A0?style=for-the-badge&logo=csharp&logoColor=ffdd54)
