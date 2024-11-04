@@ -69,23 +69,29 @@
 <hr>
 
 ### Current Role
-James currently works as a Product Development Manager in the Apollo Engineering Consultants, Digital Applications Team.   
+James currently works as a Software Developer in the Apollo Engineering Consultants, Digital Applications Team.   
 The current role includes:
- - Identifying product needs from Apollo’s existing software and engineering customers (or the wider market)
- - Producing development plans for new products, including product specifications, budgets, timeframes and resourcing requirements
- - Compliment the small development team with a “hands on” on approach and contribute to product development
+- Technical Leadership: Play a leading role in shaping the architectural direction of web and desktop applications, working closely with other technical stakeholders.
+- Full-Stack Development: Collaborate in the design, development, and optimisation of both web and desktop applications.
+- Database Expertise: Lead and support database design and optimisation, ensuring scalability and performance with SQL Server.
+- Cloud Solutions: Contribute to the development and deployment of cloud-based solutions using Microsoft Azure, with a focus on security, scalability, and cost-effectiveness.
+- Mentorship: Provide technical guidance, conduct code reviews, and mentor developers to uphold high standards in development.
+- Client Engagement: Liaise with clients to understand technical requirements, lead discussions, and ensure project deliverables meet their expectations.
+- Collaborative Strategic Influence: Work with company leadership and the development team to translate business needs into actionable technical strategies and solutions.
+- Troubleshooting & Optimisation: Diagnose and resolve complex technical issues, focusing on performance, optimisation, and system robustness.
+- Innovation & Improvement: Stay informed about industry trends and emerging technologies, advocating for continuous innovation and the adoption of best practices.
 
 His responsibilities over the last 18 months have been:
- - improve the overall development cycle, employing good DevOps and CI/CD practices to reduce deployment overheads and enable scalability
- - provide input into improved database design for the next revision of commercial products
- - development of commercial products
- - support internal development projects, on the subject of improving company data availability and deploying LLMs into business tools (i.e. assistants)
+ - Improve the overall development cycle, employing good DevOps and CI/CD practices to reduce deployment overheads and enable delivery scalability.
+ - Provide input into improved database design for the next revision of commercial products
+ - Development of commercial products, primarily .NET WinUI applications.
+ - Support internal development projects, on the subject of improving company data availability and deploying LLMs into business tools (i.e. AI assistants).
 
 ### Work Summary
 
 | Year | Event | Company | Description | 
 |------|-------|------------|--------------|
-| 2023 | Product Development Manager | Apollo |  Started role at Apollo |
+| 2023 | Principal Software Developer | Apollo |  Started role at Apollo |
 | 2022 | Technical Manager | Wood | Lead multiple digitalisation projects, supporting a particular software product. Interface between client requirements, engineering deployment teams and software development team. |
 | 2020 | Lead FA / Digitalisation Engineer | Wood | Leading in-house software development teams and supporting developed products. Providing input to client digital design specifications. |
 | 2018 | Senior FA Engineer | Woodgroup | Specialising in simulation optimisation, process automation and data analysis. Won internal innovation award. |
@@ -95,9 +101,6 @@ His responsibilities over the last 18 months have been:
 | 2012 | Secondment | Woodgroup Kenny | Seconded into large greenfield design project during FEED, supporting the process, and instrument and controls teams. |
 | 2010 | Graduate Engineer | Woodhill Frontier | Began work at Woodhill Frontier as a graduate engineer, supporting the Technical Safety, Process and Flow Assurance teams. |
 | 2010 | Graduated | Strathclyde University | Graduated from the University of Strathclyde with a batchelors degree in Mechanical Engineering. |
-
-
-
 
 
 ### Key Experience
