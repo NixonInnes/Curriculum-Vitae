@@ -1,0 +1,11 @@
+[project]
+name = "curriculum-vitae"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "markdown>=3.7",
+    "pythoml>=0.1.0",
+    "weasyprint>=62.3",
+]
