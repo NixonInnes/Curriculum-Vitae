@@ -105,6 +105,20 @@ His responsibilities over the last 18 months have been:
 
 ### Key Experience
 
+#### Windows Desktop Application
+> *[2023 - 2025] Apollo Engineering Consultants*
+
+James was the main developer for a modern .NET Windows desktop application. The application is used by inspectors to populate inspection workpacks, and control 3rd party video encoder hardware. The application coordinates the video recordings and user inputs to associate media and results, creating rich and meaningful inspection data.  
+
+The application is a fully asynchronous, MVVM design employing WinUI 3.  
+Features include:  
+- SQL database interface with caching
+- Import/Export data to sync with cloud application
+- Fully async comms with 3rd party hardware
+- Data grids / tables
+  - Advanced filtering & sorting
+  - Exportable
+
 #### Insights Platform Integration
 > *[2021 - 2023] Wood*
 
