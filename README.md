@@ -105,6 +105,15 @@ His responsibilities over the last 18 months have been:
 
 ### Key Experience
 
+#### Full Stack .NET Web Application
+> *[2025] Apollo Engineering Consultants*
+James is one of the primary developers working on a modern full-stack .NET web application, from the design stage through to implementation. The technology stack includes:
+- Microsoft SQL database
+- Entity Framework Core infrastructure
+- Event-driven domain model & CQRS-based application layer
+- ASP.NET Core Web API's & BFF service
+- Vue.js SPA frontend
+
 #### Windows Desktop Application
 > *[2023 - 2025] Apollo Engineering Consultants*
 
@@ -158,3 +167,4 @@ James began on the project to offer subsea engineering support to the Instrument
 James undertook the role of Interface Engineer on the project, for WGK. He was the main focal point for all engineering queries from all contractors working on the project. This role involved coordinating between all the subsea contractors, producing project interfacing procedures, responsibility matrices, managing physical interface registers, and the effective close-out of inter-company queries.
 
 He then also assumed the responsibility of managing the engineering data for hand-over to operations. This involved producing a data management strategy and providing input to the clients’ procedures, which were in early stages of development. He also provided support to the commissioning and operations teams to migrate data into their databases (MAXIMO, etc.).
+
